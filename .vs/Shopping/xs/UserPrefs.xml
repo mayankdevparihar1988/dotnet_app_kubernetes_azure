@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{FE9622B5-4B41-4895-8E7E-15A9EF66E8EC}|http">
+  <MonoDevelop.Ide.ItemProperties.Shopping.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Shopping.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

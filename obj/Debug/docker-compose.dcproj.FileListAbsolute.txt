@@ -1,0 +1,11 @@
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/bin/Debug/Shopping.Client.deps.json
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/bin/Debug/Shopping.Client.runtimeconfig.json
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/bin/Debug/appsettings.Development.json
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/bin/Debug/appsettings.json
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/bin/Debug/Shopping.Client.staticwebassets.runtime.json
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/bin/Debug/Shopping.Client
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/bin/Debug/Shopping.Client.dll
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/bin/Debug/Shopping.Client.pdb
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/mayankparihar/dotnet/Microservices_AKS/dotnet_app_kubernetes_azure/obj/Debug/docker-compose.dcproj.CopyComplete
